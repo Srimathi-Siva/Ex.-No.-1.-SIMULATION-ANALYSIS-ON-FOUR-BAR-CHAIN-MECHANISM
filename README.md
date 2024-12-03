@@ -49,8 +49,12 @@
 
 
 ## Output:
-![image](https://github.com/user-attachments/assets/00b45043-c228-4557-a6f5-8fa4b6a43215)
-![image](https://github.com/user-attachments/assets/8e46842b-6dc1-4d78-b813-848c7c98c680)
+![image](https://github.com/user-attachments/assets/9c01facb-23ed-4033-88a2-04ceb854263c)
+![image](https://github.com/user-attachments/assets/b6a0b737-dc12-4bb6-8f54-cd96ecb9c4cb)
+
+
+
+
 
 
 
